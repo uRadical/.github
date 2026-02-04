@@ -1,3 +1,5 @@
+![URAdical Banner](banner.png)
+
 ## Hi there 👋
 
 <!--
